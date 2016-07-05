@@ -1,3 +1,7 @@
 # vRealize Orchestrator
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This will be a continuously updated book about vRealize Orchestrator
+Written by the VMware community for the VMware community.
+
+Mads Fog Albrechtslund
+Cloud Architect @ Proact Systems A/S
