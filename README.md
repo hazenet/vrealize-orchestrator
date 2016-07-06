@@ -1,10 +1,9 @@
 # vRealize Orchestrator
 
-### The community book
+### The community book about vRealize Orchestrator
 
+This will be a continuously updated book about vRealize Orchestrator.<br>
+Written by the VMware community for the VMware community.<br>
 
-This will be a continuously updated book about vRealize Orchestrator.  
-Written by the VMware community for the VMware community.  
-
-Mads Fog Albrechtslund  
-Cloud Architect @ Proact Systems A/S  
+Mads Fog Albrechtslund<br>
+Cloud Architect @ Proact Systems A/S<br>
