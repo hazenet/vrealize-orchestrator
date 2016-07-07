@@ -3,17 +3,17 @@
 
 
 
-## Comments, ideas and inputs
+## Comments, ideas and inputs<a name="comments-ideas-inputs"></a>
 
-## Become a collaborator in GitBook
+## Become a collaborator<a name="become-a-collaborator"></a>
 
-## Structure
+## Structure<a name="structure"></a>
 
-## File naming
+## File naming<a name="file-naming"></a>
 
-## Image naming and referencing
+## Image naming and referencing<a name="image-naming-and-referencing"></a>
 
-## Attachments and code files
+## Attachments and code files<a name="cattachments-and-code-files"></a>
 
 
 
