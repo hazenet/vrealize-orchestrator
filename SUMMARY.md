@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * [For authors and collaborators](for-authors-and-collaborators.md)
 * [What is vRealize Orchestrator](what-is-vrealize-orchestrator/what-is-vrealize-orchestrator.md)
-   * [Origin](what-is-vrealize-orchestrator.md#what-is-vrealize-orchestrator_origin)
+   * [Origin](what-is-vrealize-orchestrator/what-is-vrealize-orchestrator.md#origin)
 
