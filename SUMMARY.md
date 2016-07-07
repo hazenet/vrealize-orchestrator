@@ -4,7 +4,7 @@
 * [What is vRealize Orchestrator](what-is-vrealize-orchestrator/what-is-vrealize-orchestrator.md)
    * [Origin](what-is-vrealize-orchestrator/what-is-vrealize-orchestrator.md#origin)
    * [Awesome Possibilities](what-is-vrealize-orchestrator/what-is-vrealize-orchestrator.md#awesome-possibilities)
-* [Installation and configuration](installation-and-configuration/installation-and-configuration.md)
+* [Installation and configuration](installation-and-configuration.md)
    * [Deployment methods](installation-and-configuration/installation-and-configuration.md#deployment-methods)
    * [Deploy vRealize Orchestrator Appliance](installation-and-configuration/installation-and-configuration.md#deploy-vrealize-orchestrator-appliance)
    * [Root account](installation-and-configuration/installation-and-configuration.md#root-account)
