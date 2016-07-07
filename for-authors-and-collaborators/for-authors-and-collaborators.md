@@ -9,11 +9,11 @@
 
 ## Structure<a name="structure"></a>
 
-## File naming<a name="file-naming"></a>
+## Chapter file naming<a name="chapter-file-naming"></a>
 
 ## Image naming and referencing<a name="image-naming-and-referencing"></a>
 
-## Attachments and code files<a name="cattachments-and-code-files"></a>
+## Attachments and code files<a name="attachments-and-code-files"></a>
 
 
 
