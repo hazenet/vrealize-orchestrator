@@ -8,7 +8,7 @@
    * [Deployment methods](installation-and-configuration.md#deployment-methods)
    * [Deploy vRealize Orchestrator Appliance](installation-and-configuration.md#deploy-vrealize-orchestrator-appliance)
    * [Root account](installation-and-configuration.md#root-account)
-   * [NTP and Time zone](installation-and-configuration/installation-and-configuration.md#ntp-and-time-zone)
+   * [NTP and Time zone](installation-and-configuration.md#ntp-and-time-zone)
    * [Databases](installation-and-configuration/installation-and-configuration.md#databases)
    * [Authentication](installation-and-configuration/installation-and-configuration.md#authentication)
    * [Clustering](installation-and-configuration/installation-and-configuration.md#clustering)
