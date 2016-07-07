@@ -5,6 +5,7 @@
    * [Origin](what-is-vrealize-orchestrator/what-is-vrealize-orchestrator.md#origin)
    * [Awesome Possibilities](what-is-vrealize-orchestrator/what-is-vrealize-orchestrator.md#awesome-possibilities)
 * [Installation and configuration](installation-and-configuration/installation-and-configuration.md)
+  * 
 * [For authors and collaborators](for-authors-and-collaborators/for-authors-and-collaborators.md)
    * [Comments, ideas and inputs](for-authors-and-collaborators/for-authors-and-collaborators.md#comments-ideas-inputs)
    * [Become a collaborator](for-authors-and-collaborators/for-authors-and-collaborators.md#become-a-collaborator)
