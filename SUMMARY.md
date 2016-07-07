@@ -11,7 +11,7 @@
    * [NTP and Time zone](installation-and-configuration.md#ntp-and-time-zone)
    * [Databases](installation-and-configuration.md#databases)
    * [Authentication](installation-and-configuration/installation-and-configuration.md#authentication)
-   * [Clustering](installation-and-configuration/installation-and-configuration.md#clustering)
+   * [Clustering](installation-and-configuration.md#clustering)
    * [Certificates](installation-and-configuration/installation-and-configuration.md#certificates)
 * [For authors and collaborators](for-authors-and-collaborators.md)
    * [Comments, ideas and inputs](for-authors-and-collaborators.md#comments-ideas-inputs)
