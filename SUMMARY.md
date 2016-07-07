@@ -14,7 +14,7 @@
    * [Clustering](installation-and-configuration/installation-and-configuration.md#clustering)
    * [Certificates](installation-and-configuration/installation-and-configuration.md#certificates)
 * [For authors and collaborators](for-authors-and-collaborators.md)
-   * [Comments, ideas and inputs](for-authors-and-collaborators/for-authors-and-collaborators.md#comments-ideas-inputs)
+   * [Comments, ideas and inputs](for-authors-and-collaborators.md#comments-ideas-inputs)
    * [Become a collaborator](for-authors-and-collaborators/for-authors-and-collaborators.md#become-a-collaborator)
    * [Structure](for-authors-and-collaborators/for-authors-and-collaborators.md#structure)
    * [Chapter file naming](for-authors-and-collaborators/for-authors-and-collaborators.md#chapter-file-naming)
