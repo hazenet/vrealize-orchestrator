@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [What is vRealize Orchestrator](what-is-vrealize-orchestrator/what-is-vrealize-orchestrator.md)
-   * [Origin](what-is-vrealize-orchestrator/what-is-vrealize-orchestrator.md#origin)
+   * [Origin](what-is-vrealize-orchestrator.md#origin)
    * [Awesome Possibilities](what-is-vrealize-orchestrator/what-is-vrealize-orchestrator.md#awesome-possibilities)
 * [Installation and configuration](installation-and-configuration.md)
    * [Deployment methods](installation-and-configuration.md#deployment-methods)
