@@ -11,4 +11,5 @@
    * [Chapter file naming](for-authors-and-collaborators/for-authors-and-collaborators.md#chapter-file-naming)
    * [Imaging naming and referencing](for-authors-and-collaborators/for-authors-and-collaborators.md#image-naming-and-referencing)
    * [Attachements and code files](for-authors-and-collaborators/for-authors-and-collaborators.md#attachments-and-code-files)
+* Installation and configuration
 
