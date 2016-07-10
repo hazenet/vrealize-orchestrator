@@ -9,4 +9,4 @@ Mads Fog Albrechtslund<br>
 Cloud Architect @ Proact Systems A/S<br>
 Twitter: [@Hazenet](https://twitter.com/Hazenet)<br>
 <br>
-Release date: {{gitbook.time | truncate(18, false, '')}}
+Release date: {{gitbook.time | truncate(18)}}
