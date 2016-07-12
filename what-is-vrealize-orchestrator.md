@@ -1,4 +1,4 @@
-# .What is vRealize Orchestrator
+# What is vRealize Orchestrator
 
 ## Origin {#origin}
 
