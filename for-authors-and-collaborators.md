@@ -21,7 +21,7 @@ Chapter files should be referenced first, like this:
 H2 headings in each chapter should be referenced manually, by doing the following on a indented line below each chapter:
 
 ```
-    * [Origin](what-is-vrealize-orchestrator.md#origin)
+    * [Origin](what-is-vrealize-orchestrator.md#origin2)
 ```
 
 For this to work, it is needed to create a Markdown anchor after each H2 heading in the actual chapter file. So a H2 heading in the "What is vRealize Orchestrator.md" file would look like this:
