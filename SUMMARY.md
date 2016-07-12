@@ -2,12 +2,9 @@
 
 * [Introduction](README.md)
 * [What is vRealize Orchestrator](what-is-vrealize-orchestrator.md)
-
   * [Origin](what-is-vrealize-orchestrator.md#origin)
   * [Awesome Possibilities](what-is-vrealize-orchestrator.md#awesome-possibilities)
-
 * [Installation and configuration](installation-and-configuration.md)
-
   * [Deployment methods](installation-and-configuration.md#deployment-methods)
   * [Deploy vRealize Orchestrator Appliance](installation-and-configuration.md#deploy-vrealize-orchestrator-appliance)
   * [Root account](installation-and-configuration.md#root-account)
@@ -16,9 +13,7 @@
   * [Authentication](installation-and-configuration.md#authentication)
   * [Clustering](installation-and-configuration.md#clustering)
   * [Certificates](installation-and-configuration.md#certificates)
-
 * [For authors and collaborators](for-authors-and-collaborators.md)
-
   * [Comments, ideas and inputs](for-authors-and-collaborators.md#comments-ideas-inputs)
   * [Become a collaborator](for-authors-and-collaborators.md#become-a-collaborator)
   * [Structure](for-authors-and-collaborators.md#structure)
