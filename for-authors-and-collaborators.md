@@ -63,7 +63,7 @@ HJR5
 The actual image or screenshot would the be named with this random string, like the following:
 
 ```
-HJR5-some-descriptive-name.jpg or HJR5-some-descriptive-name.png
+HJR5-some-descriptive-name.png
 ```
 
 Before added a image or screenshot to the book, please resize the image so that it has a max width of 1.000px
