@@ -1,17 +1,18 @@
 
+
 # For authors and collaborators
 
-## Comments, ideas and inputs<a name="comments-ideas-inputs"></a>
+## Comments, ideas and inputs {#comments-ideas-inputs}
 
-## Become a collaborator<a name="become-a-collaborator"></a>
+## Become a collaborator {#become-a-collaborator}
 
-## Structure<a name="structure"></a>
+## Structure {#structure}
 
-## Chapter file naming<a name="chapter-file-naming"></a>
+## Chapter file naming {#chapter-file-naming}
 
-## Image naming and referencing<a name="image-naming-and-referencing"></a>
+## Image naming and referencing {#image-naming-and-referencing}
 
-## Attachments and code files<a name="attachments-and-code-files"></a>
+## Attachments and code files {#attachments-and-code-files}
 
 
 
