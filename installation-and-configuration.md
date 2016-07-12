@@ -1,5 +1,3 @@
-
-
 # Installation and configuration
 
 ## Deployment methods {#deployment-methods}
@@ -8,7 +6,7 @@
 
 ## Root account {#root-account}
 
-## NTP and Time zone {"ntp-and-time-zone}
+## NTP and Time zone {#ntp-and-time-zone}
 
 ## Databases {#databases}
 
@@ -17,3 +15,4 @@
 ## Clustering {#clustering}
 
 ## Certificates {#certificates}
+
