@@ -12,7 +12,7 @@ All images should be placed in the \/assets\/ folder, to try and keep it somewha
 
 In the SUMMARY.md file, the "Table of Contents" is build up.
 
-Chapter files should be referenced in first, like this:
+Chapter files should be referenced first, like this:
 
 ```
 * [What is vRealize Orchestrator](what-is-vrealize-orchestrator.md)
@@ -24,7 +24,7 @@ H2 headings in each chapter should be referenced manually, by doing the followin
     * [Origin](what-is-vrealize-orchestrator.md#origin)
 ```
 
-For this to work, it is need to create a Markdown anchor after each H2 heading in the actual chapter file. So a H2 heading in the "What is vRealize Orchestrator.md" file would look like this:
+For this to work, it is needed to create a Markdown anchor after each H2 heading in the actual chapter file. So a H2 heading in the "What is vRealize Orchestrator.md" file would look like this:
 
 ```
 ## Origin {#origin}
