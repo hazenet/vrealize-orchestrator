@@ -3,7 +3,7 @@
 
 ## Origin {#origin}
 
-Original developed by Dunes
+Originally developed by Dunes
 
 ## Awesome possibilities {#awesome-possibilities}
 
