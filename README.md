@@ -14,4 +14,4 @@ Cloud Architect at Proact Systems A/S
 Twitter: [@Hazenet](https://twitter.com/Hazenet)
 
 
-Release date: {{gitbook.time}}
+Release date:
