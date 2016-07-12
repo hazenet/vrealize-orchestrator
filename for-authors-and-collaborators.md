@@ -69,6 +69,7 @@ HJR5-some-descriptive-name.jpg or HJR5-some-descriptive-name.png
 Before added a image or screenshot to the book, please resize the image so that it has a max width of 1.000px
 
 ![](/assets/HJR5-random-org.png)
+Fig. HJR5
 
 ## Attachments and code files {#attachments-and-code-files}
 
