@@ -50,7 +50,7 @@ some-relevant-title.md
 
 Because this will be a continuously written book, we can't have "Fig. 1.3" references was one would normally have in a book.
 
-So to overcome that issue, I have decided to use short random generated reference-ids instead. That way it does not matter when a perticular images was added to to a chapter, and a chapter may be injected anywhere in the book at any time.
+So to overcome that issue, I have decided to use short random generated reference-ids instead. That way it does not matter when a perticular images was added to a chapter, and a chapter may be injected anywhere in the book at any time.
 
 I suggest that we use Random.org's [sting generator](https://www.random.org/strings/), with length set to 4 characters and to include Numerics and Uppercase leters only. That would give us a maximum of 1.679.616 images or screenshots, which should be enough by my estimates.
 
@@ -63,7 +63,7 @@ HJR5
 The actual image or screenshot would the be named with this random string, like the following:
 
 ```
-HJR5-some-descriptive-name.jpg or HJR5-some-descriptive-name.png 
+HJR5-some-descriptive-name.jpg or HJR5-some-descriptive-name.png
 ```
 
 ## Attachments and code files {#attachments-and-code-files}
