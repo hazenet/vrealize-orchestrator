@@ -1,3 +1,4 @@
+
 # vRealize Orchestrator
 
 ## The community book about vRealize Orchestrator
@@ -12,5 +13,5 @@ Cloud Architect at Proact Systems A\/S
 
 Twitter: [@Hazenet](https://twitter.com/Hazenet)
 
-Release date:
+Release date: {gitbook.time}
 
