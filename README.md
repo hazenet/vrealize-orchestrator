@@ -1,4 +1,3 @@
-
 # vRealize Orchestrator
 
 ## The community book about vRealize Orchestrator
