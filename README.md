@@ -11,8 +11,8 @@ Project initiator and main moderator:<br>
 Mads Fog Albrechtslund<br>
 Cloud Architect at Proact Systems A/S<br>
 Twitter: [@Hazenet](https://twitter.com/Hazenet)<br>
-Website: [Hazenet.dk](https://hazenet.dk)<br>
-
+Website: [Hazenet.dk](https://hazenet.dk)
 <br><br><br>
+
 Book release date/version: {{gitbook.time}}
 
