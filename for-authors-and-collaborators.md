@@ -68,7 +68,7 @@ HJR5-some-descriptive-name.png
 
 Before added a image or screenshot to the book, please resize the image so that it has a max width of 1.000px
 
-![](/assets/HJR5-random-org.png "HJR5")
+![HJR5 - Random.org](/assets/HJR5-random-org.png)
 
 When a random string has been generated, please do a search in the book before using it, to verify that it has not been used before. A repeat of a random generated string might still occur, so we will have to manually verify the uniqueness before using it.
 
