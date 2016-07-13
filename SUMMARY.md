@@ -23,4 +23,10 @@
 * [vRealize Orchestrator Concepts](vrealize-orchestrator-concepts.md)
     * [Visual Programming](vrealize-orchestrator-concepts.md#visual-programming)
     * [Variables](vrealize-orchestrator-concepts.md#variables)
+    * [Elements](vrealize-orchestrator-concepts.md#elements)
+    * [Presentation](vrealize-orchestrator-concepts.md#presentation)
+    * [Actions](vrealize-orchestrator-concepts.md#actions)
+    * [Resource Elements](vrealize-orchestrator-concepts.md#resource-elements)
+    * [Configuration Elements](vrealize-orchestrator-concepts.md#configuration-elements)
+    * [Policies](vrealize-orchestrator-concepts.md#policies)
 
