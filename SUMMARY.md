@@ -21,5 +21,6 @@
     * [Imaging naming and referencing](for-authors-and-collaborators.md#image-naming-and-referencing)
     * [Attachements and code files](for-authors-and-collaborators.md#attachments-and-code-files)
 * [vRealize Orchestrator Concepts](vrealize-orchestrator-concepts.md)
-    * [Visual Programming](test2.md)
+    * [Visual Programming](vrealize-orchestrator-concepts.md#visual-programming)
+    * [Variables](vrealize-orchestrator-concepts.md#variables)
 
