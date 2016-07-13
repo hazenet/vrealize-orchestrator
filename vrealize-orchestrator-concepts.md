@@ -2,7 +2,7 @@
 
 ## Visual programming {#visual-programming}
 
-## Variables in vRealize Orchestrator {#variables-in-vrealize-orchestrator}
+## Variables {#variables}
 
 ## Elements {#elements}
 
