@@ -1,11 +1,6 @@
 {
     "plugins": [
-        "-image-captions"
+        "image-captions"
     ],
-    "pluginsConfig": {
-      "image-captions": {
-        "caption": "Figure _CAPTION_",
-        "align": "left"
-      }
-    }
+    "pluginsConfig": {}
 }
