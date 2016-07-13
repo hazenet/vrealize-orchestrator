@@ -1,15 +1,15 @@
 # JavaScript Basics
 
-## Variables and Objects
+## Variables and Objects {#variables-and-objects}
 
-## Comments
+## Comments {#comments}
 
-## Logging
+## Logging {#logging}
 
-## Operators
+## Operators {#operators}
 
-## If statements
+## If statements {#if-statements}
 
-## Looping
+## Looping {#looping}
 
-## Try
+## Try {#try}
