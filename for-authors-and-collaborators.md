@@ -74,5 +74,17 @@ When a random string has been generated, please do a search in the book before u
 
 The easiest way to do a search in the complete book would be to go to [online reader of the book](https://www.gitbook.com/read/book/hazenet/vrealize-orchestrator) and use the search option in the top-left corner.
 
+When adding a image to the book, using the following text-syntax:
+
+```
+![HJR5 - Random.org](/assets/HJR5-random-org.png)
+```
+
+The first part is the Title of the image, which will be automatically added as caption beneath the image, when the book is build via Gitbook:
+
+```
+Figure HJR5 - Random.org
+```
+
 ## Attachments and code files {#attachments-and-code-files}
 
