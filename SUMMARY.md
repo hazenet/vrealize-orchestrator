@@ -38,5 +38,7 @@
   * [Chapter file naming](for-authors-and-collaborators.md#chapter-file-naming)
   * [Imaging naming and referencing](for-authors-and-collaborators.md#image-naming-and-referencing)
   * [Attachements and code files](for-authors-and-collaborators.md#attachments-and-code-files)
-
-
+* [vRealize Orchestrator advanced tools](vrealize-orhcestrator-advanced-tools.md)
+  * [Mail](vrealize-orhcestrator-advanced-tools.md#mail)
+  * [File](vrealize-orhcestrator-advanced-tools.md#file)
+    * [Permissions and Rights](vrealize-orhcestrator-advanced-tools.md#permissions-and-rights)
