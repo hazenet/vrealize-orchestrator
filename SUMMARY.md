@@ -42,3 +42,5 @@
   * [Mail](vrealize-orhcestrator-advanced-tools.md#mail)
   * [File](vrealize-orhcestrator-advanced-tools.md#file)
     * [Permissions and Rights](vrealize-orhcestrator-advanced-tools.md#permissions-and-rights)
+  * [XML](vrealize-orhcestrator-advanced-tools.md#xml)
+  * [JSON](vrealize-orhcestrator-advanced-tools.md#json)
