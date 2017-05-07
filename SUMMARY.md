@@ -25,6 +25,8 @@
     * [For Each In Loop](javascript-basics.md#for-each-in-loop)
     * [While Loop](javascript-basics.md#while-loop)
     * [Do While Loop](javascript-basics.md#do-while-loop)
+    * [Break Statement](javascript-basics.md#break-statement)
+    * [Continue Statement](javascript-basics.md#continue-statement)
   * [Try](javascript-basics.md#try)
 * [vRealize Orchestrator Concepts](vrealize-orchestrator-concepts.md)
   * [Visual Programming](vrealize-orchestrator-concepts.md#visual-programming)
