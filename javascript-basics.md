@@ -11,5 +11,9 @@
 ## If statements {#if-statements}
 
 ## Looping {#looping}
+### For Loop {#for-loop)
+### For In Loop {#for-in-loop}
+### For Each In Loop {#for-each-in-loop}
+### While Loop {#while-loop}
 
 ## Try {#try}
