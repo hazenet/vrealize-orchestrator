@@ -16,5 +16,7 @@
 ### For Each In Loop {#for-each-in-loop}
 ### While Loop {#while-loop}
 ### Do While Loop {#do-while-loop}
+### Break Statement {#break-statement}
+### Continue Statement {#continue-statement}
 
 ## Try {#try}
