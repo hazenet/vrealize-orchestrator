@@ -24,15 +24,17 @@ for (i = 0; i < 10; i++){
 
 The "For" loop has 3 statements:
 
-1. "i = 0"
-   Statement 1 is normally used to initialize the iterator variable used in the loop, but it's possible to initialize multiple variables, by seperating them with a comma.  
+#### "i = 0" in the above example
+
+Statement 1 is normally used to initialize the iterator variable used in the loop, but it's possible to initialize multiple variables, by seperating them with a comma.
 
 ```
 for (i = 0, otherVariable = "something"; i < 10; i++){
     // do stuff
 }
-```  
-   Or Statement 1 can be completly omitted, if the iterator variable has been initialized else where in the script
+```
+
+Or Statement 1 can be completly omitted, if the iterator variable has been initialized else where in the script
 
 ```
 var i = 0;
