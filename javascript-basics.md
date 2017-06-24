@@ -40,7 +40,7 @@ for (i = 0, otherVariable = "something"; i < 10; i++){
 
 _Code Example GRCD_
 
-Or Statement 1 can be completly omitted, if the iterator variable has been initialized else where in the script
+Statement 1 is optional and can be completly omitted, if the iterator variable has been initialized else where in the script.
 
 ```js
 var i = 0;
@@ -55,7 +55,7 @@ _Code Example P4ZI_
 
 Statement 2 is normally used to evaluate the condition of the variable used for iteration, and before to decide when to stop iterating.
 
-Statement 2 is also optional, so can like Statement 1 be completely omitted
+Statement 2 is also optional, so can like Statement 1 be completely omitted, a "break" statement must be added inside the loop, to avoid a never ending loop.
 
 ```js
 var i = 0;
@@ -68,6 +68,35 @@ for (;; i++){
 ```
 
 _Code Example CDUI_
+
+**Statement 3 - "i++" in Code Example KMXV**
+
+Statement 3 is normally increment the variable used for iteration.
+
+```js
+for (i = 0; i < 10; i += 2){
+    // do stuff
+}}
+```
+
+_Code Example IHH4_
+
+In Code Example IHH4 "i" will be incremented with 2 for every loop.
+
+Statement 3 is also optional, so can like Statement 1 be completely omitted, increments just needs to be done inside the loop.
+
+```js
+var i = 0;
+for (;;){
+    // do stuff
+    if (i >= 10){
+        break;
+    }
+    i++
+}
+```
+
+_Code Example HAZB_
 
 ### For In Loop {#for-in-loop}
 
