@@ -16,19 +16,21 @@
 
 This is the most flexible looping style in Javascript, not the easiest to write or remember.
 
-```
+```js
 for (i = 0; i < 10; i++){
     // do stuff
 }
 ```
 
+In this example "i" is the variable representing the current iteration.
+
 The "For" loop has 3 statements:
 
-#### "i = 0" in the above example
+**Statement 1 - "i = 0" in the above example**
 
 Statement 1 is normally used to initialize the iterator variable used in the loop, but it's possible to initialize multiple variables, by seperating them with a comma.
 
-```
+```js
 for (i = 0, otherVariable = "something"; i < 10; i++){
     // do stuff
 }
@@ -36,14 +38,16 @@ for (i = 0, otherVariable = "something"; i < 10; i++){
 
 Or Statement 1 can be completly omitted, if the iterator variable has been initialized else where in the script
 
-```
+```js
 var i = 0;
 for (; i < 10; i++){
     // do stuff
 }
 ```
 
-To explain, 'i' in this case is the iterator, but it's just a variable, so anything can be used.
+**Statement 2 - "i &lt; 10"**
+
+
 
 ### For In Loop {#for-in-loop}
 
