@@ -22,11 +22,13 @@ for (i = 0; i < 10; i++){
 }
 ```
 
+Code Example KMXV
+
 In this example "i" is the variable representing the current iteration.
 
 The "For" loop has 3 statements:
 
-**Statement 1 - "i = 0" in the above example**
+**Statement 1 - "i = 0" in Code Example KMXV**
 
 Statement 1 is normally used to initialize the iterator variable used in the loop, but it's possible to initialize multiple variables, by seperating them with a comma.
 
@@ -35,6 +37,8 @@ for (i = 0, otherVariable = "something"; i < 10; i++){
     // do stuff
 }
 ```
+
+Code Example GRCD
 
 Or Statement 1 can be completly omitted, if the iterator variable has been initialized else where in the script
 
@@ -45,9 +49,9 @@ for (; i < 10; i++){
 }
 ```
 
-**Statement 2 - "i &lt; 10"**
+Code Example P4ZI
 
-
+**Statement 2 - "i &lt; 10" in Code Example KMXV**
 
 ### For In Loop {#for-in-loop}
 
