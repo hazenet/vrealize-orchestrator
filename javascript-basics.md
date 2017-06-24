@@ -31,7 +31,7 @@ The "For" loop has 3 statements:
 for (i = 0, otherVariable = "something"; i < 10; i++){
     // do stuff
 }
-```
+```  
    Or Statement 1 can be completly omitted, if the iterator variable has been initialized else where in the script
 
 ```
