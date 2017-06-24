@@ -4,6 +4,16 @@
 
 ## Comments {#comments}
 
+It's possible to either comment out a single line or a larger block.
+
+```js
+// Single line comment
+
+/*
+Larger block comment
+*/
+```
+
 ## Logging {#logging}
 
 ## Operators {#operators}
