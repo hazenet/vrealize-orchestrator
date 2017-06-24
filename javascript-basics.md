@@ -22,7 +22,7 @@ for (i = 0; i < 10; i++){
 }
 ```
 
-Code Example KMXV
+_Code Example KMXV_
 
 In this example "i" is the variable representing the current iteration.
 
@@ -38,7 +38,7 @@ for (i = 0, otherVariable = "something"; i < 10; i++){
 }
 ```
 
-Code Example GRCD
+_Code Example GRCD_
 
 Or Statement 1 can be completly omitted, if the iterator variable has been initialized else where in the script
 
@@ -49,7 +49,7 @@ for (; i < 10; i++){
 }
 ```
 
-Code Example P4ZI
+_Code Example P4ZI_
 
 **Statement 2 - "i &lt; 10" in Code Example KMXV**
 
