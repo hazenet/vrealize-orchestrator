@@ -53,6 +53,22 @@ _Code Example P4ZI_
 
 **Statement 2 - "i &lt; 10" in Code Example KMXV**
 
+Statement 2 is normally used to evaluate the condition of the variable used for iteration, and before to decide when to stop iterating.
+
+Statement 2 is also optional, so can like Statement 1 be completely omitted
+
+```js
+var i = 0;
+for (;; i++){
+    // do stuff
+    if (i >= 10){
+        break;
+    }
+}
+```
+
+_Code Example CDUI_
+
 ### For In Loop {#for-in-loop}
 
 ### For Each In Loop {#for-each-in-loop}
