@@ -41,7 +41,7 @@ for (i = 0; i < vms.length; i++){
 
 _Code Example KMXV_
 
-In this example "i" is the variable representing the current iteration.
+In this example "i" is the variable representing the current index in the array.
 
 The "For" loop has 3 statements:
 
