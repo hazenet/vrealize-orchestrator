@@ -190,6 +190,8 @@ _Code Example HUS7_
 
 ### Continue Statement {#continue-statement}
 
+### Label Statement
+
 ## Try {#try}
 
 
