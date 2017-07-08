@@ -148,6 +148,19 @@ So it is a simpler and more readable way of doing a simple loop for each object 
 
 ### For Each In Loop {#for-each-in-loop}
 
+Where the For Loop and For In Loop creates a reference to index of the object in the array, the For Each In Loop creates a variable referencing the actual object.
+
+```js
+// vms being a array of VMs
+
+for each (vm in vms){
+    // Do stuff for each other object here
+    System.log(vm.name)
+}
+```
+
+_Code Example TA9D_
+
 ### While Loop {#while-loop}
 
 ### Do While Loop {#do-while-loop}
