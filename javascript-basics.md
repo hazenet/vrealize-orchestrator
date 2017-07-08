@@ -35,7 +35,7 @@ This is the most flexible looping style in Javascript, not the easiest to write 
 
 for (i = 0; i < vms.length; i++){
     // Do stuff for each object here
-    System.log(vms[i].name)
+    System.log(vms[i].name);
 }
 ```
 
@@ -54,7 +54,7 @@ Statement 1 is normally used to initialize the iterator variable used in the loo
 
 for (i = 0, prefixVariable = "VM Name: "; i < vms.length; i++){
     // Do stuff for each object here
-    System.log(prefixVariable + vms[i].name)
+    System.log(prefixVariable + vms[i].name);
 }
 ```
 
@@ -68,7 +68,7 @@ Statement 1 is optional and can be completly omitted, if the iterator variable h
 var i = 0;
 for (; i < vms.length; i++){
     // Do stuff for each object here
-    System.log(vms[i].name)
+    System.log(vms[i].name);
 }
 ```
 
@@ -86,7 +86,7 @@ Statement 2 is also optional, so can like Statement 1 be completely omitted, a "
 var i = 0;
 for (;; i++){
     // Do stuff for each object here
-    System.log(vms[i].name)
+    System.log(vms[i].name);
     if (i >= vms.length){
         break;
     }
@@ -104,7 +104,7 @@ Statement 3 is normally increment the variable used for iteration.
 
 for (i = 0; i < vms.length; i += 2){
     // Do stuff for each other object here
-    System.log(vms[i].name)
+    System.log(vms[i].name);
 }}
 ```
 
@@ -138,7 +138,7 @@ The For In Loop is identical to the functionallity achieved by the For Loop writ
 
 for (i in vms){
     // Do stuff for each other object here
-    System.log(vms[i].name)
+    System.log(vms[i].name);
 }
 ```
 
@@ -155,11 +155,32 @@ Where the For Loop and For In Loop creates a reference to index of the object in
 
 for each (vm in vms){
     // Do stuff for each other object here
-    System.log(vm.name)
+    System.log(vm.name);
 }
 ```
 
 _Code Example TA9D_
+
+If changes are done, it is not reflected in the original array.
+
+```js
+var fruits = ["Banana", "Apple", "Orange"];
+
+System.log(fruits)
+// Output:
+// Banana,Apple,Orange
+
+for each (fruit in fruits){
+    // Do stuff for each other object here
+    fruit = "A slice of " + fruit;
+}
+
+System.log(fruits)
+// Output:
+// Banana,Apple,Orange
+```
+
+_Code Example HUS7_
 
 ### While Loop {#while-loop}
 
