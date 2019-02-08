@@ -24,6 +24,18 @@ _Code Example Z1OG_
 
 ## If statements {#if-statements}
 
+### Simple If statement {#simple-if-statement}
+
+### Single line If statement {#single-line-if-statement}
+
+### If statement with multiple conditions {#if-statement-with-multiple-conditions}
+
+### Else statement {#else-statement}
+
+### If else statement {#if-else-statement}
+
+### Switch statement {#switch-statement}
+
 ## Looping {#looping}
 
 ### For Loop {#for-loop}
@@ -190,7 +202,7 @@ _Code Example HUS7_
 
 ### Continue Statement {#continue-statement}
 
-### Label Statement
+### Label Statement {#label-statement}
 
 ## Try {#try}
 
