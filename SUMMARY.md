@@ -33,6 +33,7 @@
     * [Do While Loop](javascript-basics.md#do-while-loop)
     * [Break Statement](javascript-basics.md#break-statement)
     * [Continue Statement](javascript-basics.md#continue-statement)
+    * [Label Statement](javascript-basics.md#label-statement)
   * [Try](javascript-basics.md#try)
 * [vRealize Orchestrator Concepts](vrealize-orchestrator-concepts.md)
   * [Visual Programming](vrealize-orchestrator-concepts.md#visual-programming)
