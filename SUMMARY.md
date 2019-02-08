@@ -7,7 +7,7 @@
 * [Installation and configuration](installation-and-configuration.md)
   * [Deployment methods](installation-and-configuration.md#deployment-methods)
   * [Deploy vRealize Orchestrator Appliance](installation-and-configuration.md#deploy-vrealize-orchestrator-appliance)
-  * [Root account and SSH access](installation-and-configuration.md##root-account-and-ssh-access)
+  * [Root account and SSH access](installation-and-configuration.md#root-account-and-ssh-access)
   * [NTP and Time zone](installation-and-configuration.md#ntp-and-time-zone)
   * [Databases](installation-and-configuration.md#databases)
   * [Authentication](installation-and-configuration.md#authentication)
