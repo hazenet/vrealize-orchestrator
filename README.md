@@ -9,7 +9,7 @@ The book will be written by the VMware community for the VMware community.
 
 Project initiator and main moderator:<br>
 Mads Fog Albrechtslund<br>
-Cloud Architect at Proact Systems A/S<br>
+Senior Cloud Automation Consultant at SovLabs<br>
 Twitter: [@Hazenet](https://twitter.com/Hazenet)<br>
 Website: [Hazenet.dk](https://hazenet.dk)
 <br><br><br>
