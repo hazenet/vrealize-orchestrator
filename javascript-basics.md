@@ -190,8 +190,7 @@ System.log(fruits)
 // Output:
 // Banana,Apple,Orange
 ```
-
-_Code Example HUS7_
+_Code Example TWW8FD_
 
 ### While Loop {#while-loop}
 
