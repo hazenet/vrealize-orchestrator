@@ -154,7 +154,7 @@ for (i in vms){
     System.log(vms[i].name);
 }
 ```
-_Code Example C9P9EL_
+_Code Example LO9BQZ_
 
 So it is a simpler and more readable way of doing a simple loop for each object in a array.
 
