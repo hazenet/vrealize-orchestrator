@@ -30,7 +30,7 @@ if (3 == 4) {
 	System.log("Something is wrong in the universe");
 }
 ```
-_Code Example 6LE1MN_
+_Code Example CL19VI_
 
 
 ### Single line If statement {#single-line-if-statement}
