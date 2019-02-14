@@ -75,7 +75,7 @@ for (i = 0, prefixVariable = "VM Name: "; i < vms.length; i++){
     System.log(prefixVariable + vms[i].name);
 }
 ```
-_Code Example QR64U3_
+_Code Example BJ1ULP_
 
 Statement 1 is optional and can be completly omitted, if the iterator variable has been initialized else where in the script.
 
