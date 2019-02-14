@@ -26,6 +26,12 @@ _Code Example Z1OG_
 
 ### Simple If statement {#simple-if-statement}
 
+```javascript 
+if (3 == 4) {
+	System.log("Something is wrong in the universe");
+}
+```
+
 ### Single line If statement {#single-line-if-statement}
 
 ### If statement with multiple conditions {#if-statement-with-multiple-conditions}
@@ -42,7 +48,7 @@ _Code Example Z1OG_
 
 This is the most flexible looping style in Javascript, not the easiest to write or remember.
 
-```js
+```javascript
 // vms being a array of VMs
 
 for (i = 0; i < vms.length; i++){
@@ -61,7 +67,7 @@ The "For" loop has 3 statements:
 
 Statement 1 is normally used to initialize the iterator variable used in the loop, but it's possible to initialize multiple variables, by seperating them with a comma.
 
-```js
+```javascript
 // vms being a array of VMs
 
 for (i = 0, prefixVariable = "VM Name: "; i < vms.length; i++){
@@ -74,7 +80,7 @@ _Code Example GRCD_
 
 Statement 1 is optional and can be completly omitted, if the iterator variable has been initialized else where in the script.
 
-```js
+```javascript
 // vms being a array of VMs
 
 var i = 0;
@@ -92,7 +98,7 @@ Statement 2 is normally used to evaluate the condition of the variable used for 
 
 Statement 2 is also optional, so can like Statement 1 be completely omitted, a "break" statement must be added inside the loop, to avoid a never ending loop.
 
-```js
+```javascript
 // vms being a array of VMs
 
 var i = 0;
@@ -111,7 +117,7 @@ _Code Example CDUI_
 
 Statement 3 is normally increment the variable used for iteration.
 
-```js
+```javascript
 // vms being a array of VMs
 
 for (i = 0; i < vms.length; i += 2){
@@ -126,7 +132,7 @@ In Code Example IHH4 "i" will be incremented with 2 for every loop.
 
 Statement 3 is also optional, so can like Statement 1 be completely omitted, increments just needs to be done inside the loop.
 
-```js
+```javascript
 // vms being a array of VMs
 
 var i = 0;
@@ -145,7 +151,7 @@ _Code Example HAZB_
 
 The For In Loop is identical to the functionallity achieved by the For Loop written in Code Example KMXV.
 
-```js
+```javascript
 // vms being a array of VMs
 
 for (i in vms){
@@ -162,7 +168,7 @@ So it is a simpler and more readable way of doing a simple loop for each object 
 
 Where the For Loop and For In Loop creates a reference to index of the object in the array, the For Each In Loop creates a variable referencing the actual object.
 
-```js
+```javascript
 // vms being a array of VMs
 
 for each (vm in vms){
@@ -175,7 +181,7 @@ _Code Example TA9D_
 
 If changes are done, it is not reflected in the original array.
 
-```js
+```javascript
 var fruits = ["Banana", "Apple", "Orange"];
 
 System.log(fruits)
