@@ -63,7 +63,7 @@ In this example "i" is the variable representing the current index in the array.
 
 The "For" loop has 3 statements:
 
-**Statement 1 - "i = 0" in Code Example 1EFYS7**
+**Statement 1 - "i = 0" in Code Example LB5DB2**
 
 Statement 1 is normally used to initialize the iterator variable used in the loop, but it's possible to initialize multiple variables, by seperating them with a comma.
 
@@ -90,7 +90,7 @@ for (; i < vms.length; i++){
 ```
 _Code Example HETNM4_
 
-**Statement 2 - "i &lt; vms.length" in Code Example 1EFYS7**
+**Statement 2 - "i &lt; vms.length" in Code Example LB5DB2**
 
 Statement 2 is normally used to evaluate the condition of the variable used for iteration, and before to decide when to stop iterating.
 
@@ -110,7 +110,7 @@ for (;; i++){
 ```
 _Code Example D61TGP_
 
-**Statement 3 - "i++" in Code Example 1EFYS7**
+**Statement 3 - "i++" in Code Example LB5DB2**
 
 Statement 3 is normally increment the variable used for iteration.
 
@@ -144,7 +144,7 @@ _Code Example Q59PDW_
 
 ### For In Loop {#for-in-loop}
 
-The For In Loop is identical to the functionallity achieved by the For Loop written in Code Example 1EFYS7.
+The For In Loop is identical to the functionallity achieved by the For Loop written in Code Example LB5DB2.
 
 ```javascript
 // vms being a array of VMs
