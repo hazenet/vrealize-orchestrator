@@ -50,29 +50,10 @@ some-relevant-title.md
 
 Because this will be a continuously written book, we can't have "Fig. 1.3" references was one would normally have in a book.
 
-So to overcome that issue, I have decided to use short random generated reference-ids instead. That way it does not matter when a perticular images was added to a chapter, and a chapter may be injected anywhere in the book at any time.
+So to overcome that issue, I have decided to use short random generated reference-ids instead. That way it does not matter when a perticular images or code example was added to a chapter, and a chapter may be injected anywhere in the book at any time.
 
-I suggest that we use [Random.org's random sting generator](https://www.random.org/strings/), with length set to 4 characters and to include Numerics and Uppercase leters only. That would give us a maximum of 1.679.616 images or screenshots, which should be enough by my estimates.
-
-These settings would generate a random string looking like this sample:
-
-```
-HJR5
-```
-
-The actual image or screenshot would the be named with this random string, like the following:
-
-```
-HJR5-some-descriptive-name.png
-```
-
-Before added a image or screenshot to the book, please resize the image so that it has a max width of 1.000px
-
-![HJR5 - Random.org](/assets/HJR5-random-org.png)
-
-When a random string has been generated, please do a search in the book before using it, to verify that it has not been used before. A repeat of a random generated string might still occur, so we will have to manually verify the uniqueness before using it.
-
-The easiest way to do a search in the complete book would be to go to [online reader of the book](https://www.gitbook.com/read/book/hazenet/vrealize-orchestrator) and use the search option in the top-left corner.
+I have created a simple text file in the Git repository called "random-strings.txt".
+The idea is to grab the next available random string from this file, and then indent it with a tab to indicate that that particular random string is now used
 
 When adding a image to the book, using the following text-syntax:
 
