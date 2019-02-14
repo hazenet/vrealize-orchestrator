@@ -30,7 +30,7 @@ if (3 == 4) {
 	System.log("Something is wrong in the universe");
 }
 ```
-_Code Example JDRQWZ_
+_Code Example 6LE1MN_
 
 
 ### Single line If statement {#single-line-if-statement}
@@ -57,14 +57,13 @@ for (i = 0; i < vms.length; i++){
     System.log(vms[i].name);
 }
 ```
-
-_Code Example KMXV_
+_Code Example 1EFYS7_
 
 In this example "i" is the variable representing the current index in the array.
 
 The "For" loop has 3 statements:
 
-**Statement 1 - "i = 0" in Code Example KMXV**
+**Statement 1 - "i = 0" in Code Example 1EFYS7**
 
 Statement 1 is normally used to initialize the iterator variable used in the loop, but it's possible to initialize multiple variables, by seperating them with a comma.
 
@@ -77,7 +76,7 @@ for (i = 0, prefixVariable = "VM Name: "; i < vms.length; i++){
 }
 ```
 
-_Code Example GRCD_
+_Code Example QR64U3_
 
 Statement 1 is optional and can be completly omitted, if the iterator variable has been initialized else where in the script.
 
@@ -90,10 +89,9 @@ for (; i < vms.length; i++){
     System.log(vms[i].name);
 }
 ```
+_Code Example HETNM4_
 
-_Code Example P4ZI_
-
-**Statement 2 - "i &lt; vms.length" in Code Example KMXV**
+**Statement 2 - "i &lt; vms.length" in Code Example 1EFYS7**
 
 Statement 2 is normally used to evaluate the condition of the variable used for iteration, and before to decide when to stop iterating.
 
@@ -111,10 +109,9 @@ for (;; i++){
     }
 }
 ```
+_Code Example D61TGP_
 
-_Code Example CDUI_
-
-**Statement 3 - "i++" in Code Example KMXV**
+**Statement 3 - "i++" in Code Example 1EFYS7**
 
 Statement 3 is normally increment the variable used for iteration.
 
@@ -126,10 +123,9 @@ for (i = 0; i < vms.length; i += 2){
     System.log(vms[i].name);
 }}
 ```
+_Code Example ER96QD_
 
-_Code Example IHH4_
-
-In Code Example IHH4 "i" will be incremented with 2 for every loop.
+In Code Example ER96QD "i" will be incremented with 2 for every loop.
 
 Statement 3 is also optional, so can like Statement 1 be completely omitted, increments just needs to be done inside the loop.
 
@@ -145,12 +141,11 @@ for (;;){
     i++
 }
 ```
-
-_Code Example HAZB_
+_Code Example Q59PDW_
 
 ### For In Loop {#for-in-loop}
 
-The For In Loop is identical to the functionallity achieved by the For Loop written in Code Example KMXV.
+The For In Loop is identical to the functionallity achieved by the For Loop written in Code Example 1EFYS7.
 
 ```javascript
 // vms being a array of VMs
@@ -160,8 +155,7 @@ for (i in vms){
     System.log(vms[i].name);
 }
 ```
-
-_Code Example LT9G_
+_Code Example C9P9EL_
 
 So it is a simpler and more readable way of doing a simple loop for each object in a array.
 
@@ -177,7 +171,6 @@ for each (vm in vms){
     System.log(vm.name);
 }
 ```
-
 _Code Example TA9D_
 
 If changes are done, it is not reflected in the original array.
