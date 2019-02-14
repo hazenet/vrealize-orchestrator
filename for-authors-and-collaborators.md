@@ -53,18 +53,18 @@ Because this will be a continuously written book, we can't have "Fig. 1.3" refer
 So to overcome that issue, I have decided to use short random generated reference-ids instead. That way it does not matter when a perticular images or code example was added to a chapter, and a chapter may be injected anywhere in the book at any time.
 
 I have created a simple text file in the Git repository called "random-strings.txt".
-The idea is to grab the next available random string from this file, and then indent it with a tab to indicate that that particular random string is now used
+The idea is to grab the next available random string from this file, and then indent it with a tab to indicate that that particular random string is now used.
 
 When adding a image to the book, using the following text-syntax:
 
 ```
-![HJR5 - Random.org](/assets/HJR5-random-org.png)
+![CLYMY4 - Awesome Screenshot](/assets/CLYMY4-AwesomeScreenshot.png)
 ```
 
 The first part is the Title of the image, which will be automatically added as caption beneath the image, when the book is build via Gitbook:
 
 ```
-Figure HJR5 - Random.org
+Figure CLYMY4 - Awesome Screenshot
 ```
 
 ## Attachments and code files {#attachments-and-code-files}
