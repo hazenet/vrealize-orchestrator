@@ -170,7 +170,7 @@ for each (vm in vms){
     System.log(vm.name);
 }
 ```
-_Code Example VKIEYN_
+_Code Example HODHCJ_
 
 If changes are done, it is not reflected in the original array.
 
