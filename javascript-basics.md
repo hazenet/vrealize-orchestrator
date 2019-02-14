@@ -75,7 +75,6 @@ for (i = 0, prefixVariable = "VM Name: "; i < vms.length; i++){
     System.log(prefixVariable + vms[i].name);
 }
 ```
-
 _Code Example QR64U3_
 
 Statement 1 is optional and can be completly omitted, if the iterator variable has been initialized else where in the script.
@@ -171,7 +170,7 @@ for each (vm in vms){
     System.log(vm.name);
 }
 ```
-_Code Example TA9D_
+_Code Example VKIEYN_
 
 If changes are done, it is not reflected in the original array.
 
@@ -205,6 +204,5 @@ _Code Example HUS7_
 ### Label Statement {#label-statement}
 
 ## Try {#try}
-
 
 
