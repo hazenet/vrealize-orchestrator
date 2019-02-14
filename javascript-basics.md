@@ -15,8 +15,7 @@ Comment line 2
 Comment line 3
 */
 ```
-
-_Code Example Z1OG_
+_Code Example JDRQWZ_
 
 ## Logging {#logging}
 
@@ -31,6 +30,8 @@ if (3 == 4) {
 	System.log("Something is wrong in the universe");
 }
 ```
+_Code Example JDRQWZ_
+
 
 ### Single line If statement {#single-line-if-statement}
 
