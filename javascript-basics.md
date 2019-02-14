@@ -122,9 +122,9 @@ for (i = 0; i < vms.length; i += 2){
     System.log(vms[i].name);
 }}
 ```
-_Code Example ER96QD_
+_Code Example 6HHJZE_
 
-In Code Example ER96QD "i" will be incremented with 2 for every loop.
+In Code Example 6HHJZE "i" will be incremented with 2 for every loop.
 
 Statement 3 is also optional, so can like Statement 1 be completely omitted, increments just needs to be done inside the loop.
 
