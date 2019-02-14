@@ -57,7 +57,7 @@ for (i = 0; i < vms.length; i++){
     System.log(vms[i].name);
 }
 ```
-_Code Example 1EFYS7_
+_Code Example LB5DB2_
 
 In this example "i" is the variable representing the current index in the array.
 
