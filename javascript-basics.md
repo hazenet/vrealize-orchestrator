@@ -35,6 +35,14 @@ _Code Example CL19VI_
 
 ### Single line If statement {#single-line-if-statement}
 
+```javascript 
+if (3 == 4) System.log("Something is wrong in the universe");
+```
+_Code Example WUZBO8_
+
+
+
+
 ### If statement with multiple conditions {#if-statement-with-multiple-conditions}
 
 ### Else statement {#else-statement}
