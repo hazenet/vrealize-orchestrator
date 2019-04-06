@@ -66,8 +66,6 @@ if (theCharacter == "h" || theNumber == 5) {
 ```
 _Code Example L4NJZK_
 
-
-
 ### Else statement {#else-statement}
 
 ### If else statement {#if-else-statement}
