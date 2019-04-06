@@ -32,7 +32,6 @@ if (3 == 4) {
 ```
 _Code Example CL19VI_
 
-
 ### Single line If statement {#single-line-if-statement}
 
 ```javascript 
@@ -40,10 +39,18 @@ if (3 == 4) System.log("Something is wrong in the universe");
 ```
 _Code Example WUZBO8_
 
-
-
-
 ### If statement with multiple conditions {#if-statement-with-multiple-conditions}
+
+Here is a If statement with multiple conditions at all needs to be true. Which uses the logical and operator, written using _&&_
+
+```javascript
+var theCharacter = "h";
+var theNumber = 7;
+if (theCharacter == "h" && theNumber == 7) {
+    System.log("Both conditions were true");
+}
+```
+_Code Example WUZBO8_
 
 ### Else statement {#else-statement}
 
@@ -55,7 +62,7 @@ _Code Example WUZBO8_
 
 ### For Loop {#for-loop}
 
-This is the most flexible looping style in Javascript, not the easiest to write or remember.
+This is the most flexible looping style in Javascript, but not the easiest to write or remember.
 
 ```javascript
 // vms being a array of VMs
