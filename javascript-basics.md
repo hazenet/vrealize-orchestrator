@@ -41,6 +41,7 @@ _Code Example WUZBO8_
 
 ### If statement with multiple conditions {#if-statement-with-multiple-conditions}
 
+**Multiple conditions using logical and operator**
 Here is a If statement with multiple conditions at all needs to be true. Which uses the logical and operator, written using _&&_
 
 ```javascript
