@@ -50,7 +50,7 @@ if (theCharacter == "h" && theNumber == 7) {
     System.log("Both conditions were true");
 }
 ```
-_Code Example WUZBO8_
+_Code Example T1RGEA_
 
 ### Else statement {#else-statement}
 
