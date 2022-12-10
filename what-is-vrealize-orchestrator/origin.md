@@ -1,0 +1,3 @@
+# Origin
+
+The software was originally developed by Dunes Technologies and called "Virtual Services - Orchestrator", shortened to either VS-O or VSO. The VSO name is still seen in some file names, both in the server and client part. VMware announced that they bought Dunes Technologies on September 11, 2007. With vSphere 4 and vCenter Server 4, the Orchestrator software was now included in the installation and licensing of vCenter Server 4. The product was now called vCenter Orchestrator, shortened to vCO. That name is still very widely used in URLs, file names and other products by VMware. At VMworld 2014 in Barcelona VMware chose to do a name change on several products, including Orchestrator. This resulted in the name we know today, vRealize Orchestrator.

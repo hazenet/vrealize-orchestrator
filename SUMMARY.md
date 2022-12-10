@@ -1,68 +1,45 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [What is vRealize Orchestrator](what-is-vrealize-orchestrator.md)
-  * [Origin](what-is-vrealize-orchestrator.md#origin)
-  * [Awesome Possibilities](what-is-vrealize-orchestrator.md#awesome-possibilities)
+  * [Origin](what-is-vrealize-orchestrator/origin.md)
+  * [Awesome possibilities](what-is-vrealize-orchestrator/awesome-possibilities.md)
 * [Installation and configuration](installation-and-configuration.md)
-  * [Deployment methods](installation-and-configuration.md#deployment-methods)
-  * [Deploy vRealize Orchestrator Appliance](installation-and-configuration.md#deploy-vrealize-orchestrator-appliance)
-  * [Root account and SSH access](installation-and-configuration.md#root-account-and-ssh-access)
-  * [NTP and Time zone](installation-and-configuration.md#ntp-and-time-zone)
-  * [Databases](installation-and-configuration.md#databases)
-  * [Authentication](installation-and-configuration.md#authentication)
-  * [Clustering](installation-and-configuration.md#clustering)
-  * [Certificates](installation-and-configuration.md#certificates)
+  *
+  *
+  *
+  *
+  *
+  *
+  *
+  *
 * [JavaScript Basics](javascript-basics.md)
-  * [Variables and Objects](javascript-basics.md#variables-and-objects)
-  * [Comments](javascript-basics.md#comments)
-  * [Logging](javascript-basics.md#logging)
-  * [Operators](javascript-basics.md#operators)
-  * [If Statements](javascript-basics.md#if-statements)
-    * [Simple If statement](javascript-basics.md#simple-if-statement)
-    * [Single line If statement](javascript-basics.md#single-line-if-statement)
-    * [If statement with multiple conditions](javascript-basics.md#if-statement-with-multiple-conditions)
-    * [Else statement](javascript-basics.md#else-statement)
-    * [If else statement](javascript-basics.md#if-else-statement)
-    * [Switch statement](javascript-basics.md#switch-statement)
-  * [Looping](javascript-basics.md#looping)
-    * [For Loop](javascript-basics.md#for-loop)
-    * [For In Loop](javascript-basics.md#for-in-loop)
-    * [For Each In Loop](javascript-basics.md#for-each-in-loop)
-    * [While Loop](javascript-basics.md#while-loop)
-    * [Do While Loop](javascript-basics.md#do-while-loop)
-    * [Break Statement](javascript-basics.md#break-statement)
-    * [Continue Statement](javascript-basics.md#continue-statement)
-    * [Label Statement](javascript-basics.md#label-statement)
-  * [Try](javascript-basics.md#try)
+  *
+  *
+  *
+  *
+  *
+  *
+  *
 * [vRealize Orchestrator Concepts](vrealize-orchestrator-concepts.md)
-  * [Visual Programming](vrealize-orchestrator-concepts.md#visual-programming)
-  * [Variables](vrealize-orchestrator-concepts.md#variables)
-  * [Elements](vrealize-orchestrator-concepts.md#elements)
-    * [Scriptable Task](vrealize-orchestrator-concepts.md#scriptable-task)
-    * [Workflow](vrealize-orchestrator-concepts.md#workflow)
-    * [Nested Workflow](vrealize-orchestrator-concepts.md#nested-workflow)
-    * [For Each Workflow](vrealize-orchestrator-concepts.md#for-each-workflow)
-    * [Decision](vrealize-orchestrator-concepts.md#decision)
-    * [Custom Events](vrealize-orchestrator-concepts.md#custom-events)
-    * [User Interaction](vrealize-orchestrator-concepts.md#user-interaction)
-  * [Presentation](vrealize-orchestrator-concepts.md#presentation)
-  * [Actions](vrealize-orchestrator-concepts.md#actions)
-  * [Resource Elements](vrealize-orchestrator-concepts.md#resource-elements)
-  * [Configuration Elements](vrealize-orchestrator-concepts.md#configuration-elements)
-  * [Policies](vrealize-orchestrator-concepts.md#policies)
-  * [API Explorer](vrealize-orchestrator-concepts.md#api-explorer)
+  *
+  *
+  *
+  *
+  *
+  *
+  *
+  *
+  *
 * [vRealize Orchestrator advanced tools](vrealize-orhcestrator-advanced-tools.md)
-  * [Mail](vrealize-orhcestrator-advanced-tools.md#mail)
-  * [File](vrealize-orhcestrator-advanced-tools.md#file)
-    * [Permissions and Rights](vrealize-orhcestrator-advanced-tools.md#permissions-and-rights)
-  * [XML](vrealize-orhcestrator-advanced-tools.md#xml)
-  * [JSON](vrealize-orhcestrator-advanced-tools.md#json)
+  *
+  *
+  *
+  *
 * [For authors and collaborators](for-authors-and-collaborators.md)
-  * [Comments, ideas and inputs](for-authors-and-collaborators.md#comments-ideas-inputs)
-  * [Become a collaborator](for-authors-and-collaborators.md#become-a-collaborator)
-  * [Structure](for-authors-and-collaborators.md#structure)
-  * [Chapter file naming](for-authors-and-collaborators.md#chapter-file-naming)
-  * [Imaging naming and referencing](for-authors-and-collaborators.md#image-naming-and-referencing)
-  * [Attachements and code files](for-authors-and-collaborators.md#attachments-and-code-files)
-
+  *
+  *
+  *
+  *
+  *
+  *
