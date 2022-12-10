@@ -1,28 +1,7 @@
 # Installation and configuration
 
-## Deployment methods {#deployment-methods}
+## &#x20;<a href="#deployment-methods" id="deployment-methods"></a>
 
-Since vRealize Orchestrator 7.0, there has only been 2 deployment methods.
+## Deploy vRealize Orchestrator Appliance <a href="#deploy-vrealize-orchestrator-appliance" id="deploy-vrealize-orchestrator-appliance"></a>
 
-* Deploy vRealize Orchestrator as a Appliance via OVF/OVA files
-* Deploy vRealize Orchestrator as an embedded part of a vRealize Automation Appliance
-
-## Deploy vRealize Orchestrator Appliance {#deploy-vrealize-orchestrator-appliance}
-
-## Root account and SSH access {#root-account-and-ssh-access}
-
-## NTP and Time zone {#ntp-and-time-zone}
-
-## Databases {#databases}
-
-As of vRealize Orchestrator 7.5 the only supported database is the Embedded PostgreSQL Database.
-For previous version of vRealize Orchestrator there was several options to choose from, like Microsoft SQL, Oracle and PostgreSQL. All in a variety  of versions.
-
-[VMware Product Interoperability Matrices - vRealize Orchestrator 7.4](https://www.vmware.com/resources/compatibility/sim/interop_matrix.php#db&117=2434)
-
-## Authentication {#authentication}
-
-## Clustering {#clustering}
-
-## Certificates {#certificates}
-
+## &#x20;<a href="#root-account-and-ssh-access" id="root-account-and-ssh-access"></a>
