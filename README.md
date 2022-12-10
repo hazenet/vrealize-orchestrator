@@ -14,5 +14,5 @@ Twitter: [@Hazenet](https://twitter.com/Hazenet)<br>
 Website: [Hazenet.dk](https://hazenet.dk)
 <br><br><br>
 
-Book release date/version: {{gitbook.time}}
+Book release date/version: Testing
 
