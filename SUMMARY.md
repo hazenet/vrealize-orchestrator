@@ -12,7 +12,7 @@
     * [Deployment methods](installation-and-configuration/vro-8.x/deployment-methods.md)
     * [Deploy stand-alone vRO 8.x](installation-and-configuration/vro-8.x/deploy-stand-alone-vro-8.x.md)
 * [JavaScript Basics](javascript-basics/javascript-basics.md)
-  * [Comments](javascript-basics/variables-and-objects.md)
+  * [Variables and Objects](javascript-basics/variables-and-objects.md)
   * [Comments](javascript-basics/comments.md)
   * [Logging](javascript-basics/logging.md)
   * [Operators](javascript-basics/operators.md)
