@@ -6,7 +6,7 @@ This will be a continuously updated book about vRealize Orchestrator. Everybody 
 
 The book will be written by the VMware community for the VMware community.
 
-<figure><img src=".gitbook/assets/cover.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/cover.jpg" alt=""><figcaption></figcaption></figure>
 
 Project initiator and main moderator:\
 Mads Fog Albrechtslund\

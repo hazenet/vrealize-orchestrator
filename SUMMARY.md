@@ -4,40 +4,34 @@
 * [What is vRealize Orchestrator](what-is-vrealize-orchestrator.md)
   * [Origin](what-is-vrealize-orchestrator/origin.md)
   * [Awesome possibilities](what-is-vrealize-orchestrator/awesome-possibilities.md)
-* [Installation and configuration](installation-and-configuration.md)
-  * [vRO 7.x](installation-and-configuration/vro-7.x/README.md)
+* [Installation and configuration](installation-and-configuration/installation-and-configuration.md)
+  * [vRO 7.x](installation-and-configuration/vro-7.x/vro-7.x.md)
     * [Deployment methods](installation-and-configuration/vro-7.x/deployment-methods.md)
     * [Deploy stand-alone vRO 7.x](installation-and-configuration/vro-7.x/deploy-stand-alone-vro-7.x.md)
-  * [vRO 8.x](installation-and-configuration/vro-8.x/README.md)
+  * [vRO 8.x](installation-and-configuration/vro-8.x/vro-8.x.md)
     * [Deployment methods](installation-and-configuration/vro-8.x/deployment-methods.md)
     * [Deploy stand-alone vRO 8.x](installation-and-configuration/vro-8.x/deploy-stand-alone-vro-8.x.md)
-* [JavaScript Basics](javascript-basics.md)
-  *
-  *
-  *
-  *
-  *
-  *
-  *
+* [JavaScript Basics](javascript-basics/javascript-basics.md)
+  * [Comments](javascript-basics/variables-and-objects.md)
+  * [Comments](javascript-basics/comments.md)
+  * [Logging](javascript-basics/logging.md)
+  * [Operators](javascript-basics/operators.md)
+  * [If statements](javascript-basics/if-statements/if-statements.md)
+    * [Simple If statement](javascript-basics/if-statements/simple-if-statement.md)
+    * [Single line If statement](javascript-basics/if-statements/single-line-if-statement.md)
+    * [If statement with multiple conditions](javascript-basics/if-statements/if-statement-with-multiple-conditions.md)
+    * [Else statement](javascript-basics/if-statements/else-statement.md)
+    * [If else statement](javascript-basics/if-statements/if-else-statement.md)
+    * [Switch statement](javascript-basics/if-statements/switch-statement.md)
+  * [Looping](javascript-basics/looping/looping.md)
+    * [For Loop](javascript-basics/looping/for-loop.md)
+    * [For In Loop](javascript-basics/looping/for-in-loop.md)
+    * [For Each Loop](javascript-basics/looping/for-each-loop.md)
+    * [While Loop](javascript-basics/looping/while-loop.md)
+    * [Do While Loop](javascript-basics/looping/do-while-loop.md)
+    * [Break statement](javascript-basics/looping/break-statement.md)
+    * [Continue statement](javascript-basics/looping/continue-statement.md)
+    * [Label statmeent](javascript-basics/looping/label-statement.md)
 * [vRealize Orchestrator Concepts](vrealize-orchestrator-concepts.md)
-  *
-  *
-  *
-  *
-  *
-  *
-  *
-  *
-  *
 * [vRealize Orchestrator advanced tools](vrealize-orhcestrator-advanced-tools.md)
-  *
-  *
-  *
-  *
 * [For authors and collaborators](for-authors-and-collaborators.md)
-  *
-  *
-  *
-  *
-  *
-  *
